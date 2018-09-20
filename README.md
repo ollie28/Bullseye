@@ -1,2 +1,2 @@
 # Bullseye
-iOS app using Swift
+My first attempt building an iOS app using Swift!
